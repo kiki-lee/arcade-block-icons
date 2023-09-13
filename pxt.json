@@ -1,0 +1,20 @@
+{
+    "name": "arcade-block-icons",
+    "version": "0.0.3",
+    "description": "",
+    "dependencies": {},
+    "files": [
+        "README.md",
+        "icons.jres"
+    ],
+    "testFiles": [],
+    "public": true,
+    "targetVersions": {
+        "target": "1.5.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
